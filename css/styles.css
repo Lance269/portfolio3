@@ -1,0 +1,6 @@
+body {
+    border: 10px solid green;
+    padding: 15px;
+    background-color: lightgrey;
+    background-clip: padding box;
+}
